@@ -5,6 +5,7 @@
     "legacy": false,
     "description": "Checkmk provides powerful monitoring of networks, servers, clouds, containers and applications",
     "url": "https://github.com/rogierg/hassio-addons/tree/master/checkmk#readme",
+    "arch": "armhf",
     "ports": {
       "5000/tcp": 5000
     },
