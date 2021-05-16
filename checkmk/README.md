@@ -6,7 +6,7 @@ ATTENTION: this add-on container should be considered unstable.
 
 [Checkmk](https://checkmk.com/) is a leading tool for Infrastructure and Application Monitoring. Simple configuration, scalable, flexible. Open Source and Enterprise.
 
-This addon is based on this [docker image](https://hub.docker.com/repository/docker/rogierg/rpi-checkmk).
+This addon is based on this [docker image](https://hub.docker.com/r/rogierg/rpi-checkmk).
 
 ## Installation
 
