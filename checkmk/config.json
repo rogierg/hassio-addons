@@ -1,0 +1,17 @@
+{
+    "name": "Checkmk",
+    "version": "0.o.1",
+    "slug": "checkmk",
+    "legacy": false,
+    "description": "Checkmk provides powerful monitoring of networks, servers, clouds, containers and applications",
+    "url": "https://github.com/rogierg/hassio-addons/tree/master/checkmk#readme",
+    "ports": {
+      "5000/tcp": 5000
+    },
+    "ports_description": {
+      "5000/tcp": "web interface"
+    },
+    "webui": "http://[HOST]:[PORT:5000]/mon/check_mk",
+    "boot": "auto",
+    "image": "rogierg/rpi-checkmk"
+  }
