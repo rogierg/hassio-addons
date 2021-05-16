@@ -1,4 +1,4 @@
-# Hassio Add-ons by petersendev
+# Hassio Add-ons by rogierg
 
 ## About
 My hassio addon repository.
