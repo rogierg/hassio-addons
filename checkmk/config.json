@@ -19,7 +19,7 @@
         "share:rw",
         "ssl"
       ],
-    "webui": "http://[HOST]:[PORT:5000]/mon/check_mk",
+    "webui": "http://[HOST]:[PORT:5000]/mon/check_mk/",
     "boot": "auto",
     "image": "rogierg/rpi-checkmk"
   }
